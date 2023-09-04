@@ -15,6 +15,13 @@ const myAnsverFeedbackElement = document.getElementById('answerFeedback');
 myAnsverButton.addEventListener('click', () => {
 
     /* din kode her.  husk at skrive view funktion der viser om svaret er korrekt i myAnsverFeedbackElement, brug evt. innerHTML*/
+    // Hvis
+    if (myAnsverInput == "ja") {
+    } else if (sd) {
+
+    } else {
+
+    }
 
 });
 
